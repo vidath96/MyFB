@@ -5,4 +5,31 @@
     android:background="#2196F3">
 
 
+    <EditText
+        android:id="@+id/txt_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Name..."
+        android:textColor="#ffffff"
+        android:layout_margin="20dp"/>
+    <EditText
+        android:id="@+id/txt_age"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Age..."
+        android:textColor="#ffffff"
+        android:layout_margin="20dp"/>
+    <EditText
+        android:id="@+id/txt_mark"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Mark..."
+        android:textColor="#ffffff"
+        android:layout_margin="20dp"/>
 </LinearLayout>
